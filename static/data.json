@@ -1,0 +1,283 @@
+{
+    "gname": "群组",
+    "gsize": 9,
+    "groups": [
+        {
+            "id": "9cf42d8951ef11e996400242ac110002",
+            "name": "常用",
+            "size": 0,
+            "child": null,
+            "groups": []
+        },
+        {
+            "id": "cdc0ba7e51ef11e996400242ac110002",
+            "name": "固定",
+            "size": 1,
+            "child": [
+                {
+                    "id": "9094f925673811e991200242ac110002",
+                    "name": "固定分类1",
+                    "size": 1,
+                    "child": null,
+                    "groups": [
+                        {
+                            "id": "0071e9ac6453455db65c35d2aecf1dd0",
+                            "name": "fixed群1",
+                            "number": 0,
+                            "personCount": 2,
+                            "creater": true,
+                            "type": "group"
+                        },
+                        {
+                            "id": "0071e9ac6453455db65c35d2aecf1dd0",
+                            "name": "fixed群8",
+                            "number": 0,
+                            "personCount": 2,
+                            "creater": true,
+                            "type": "group"
+                        }
+                    ]
+                }
+            ],
+            "groups": [
+                {
+                    "id": "78d985bba6654b13950b0f2b2b529d19",
+                    "name": "根节点群1",
+                    "number": 0,
+                    "personCount": 3,
+                    "creater": true,
+                    "type": "group"
+                }
+            ]
+        },
+        {
+            "id": "d0f01c6551ef11e996400242ac110002",
+            "name": "我的",
+            "size": 4,
+            "child": [
+                {
+                    "id": "1c4807936689493da45eb5e426b3e730",
+                    "name": "我创建的",
+                    "size": 4,
+                    "child": [
+                        {
+                            "id": "4c5b57787b5741e1bec644639fbc02f6",
+                            "name": "全员群 ",
+                            "number": 0,
+                            "personCount": 6,
+                            "creater": true,
+                            "type": "group"
+                        },
+                        {
+                            "id": "5f55da8c58374d70b7f4d289ac60efdd",
+                            "name": "临时群",
+                            "number": 0,
+                            "personCount": 2,
+                            "creater": true,
+                            "type": "group"
+                        },
+                        {
+                            "id": "c2b41b2f14834f9e926354af89ba5c9e",
+                            "name": "全员群 ",
+                            "number": 0,
+                            "personCount": 5,
+                            "creater": true,
+                            "type": "group"
+                        },
+                        {
+                            "id": "cc076732880a434a99ad6a41e7fb5dba",
+                            "name": "全员群 ",
+                            "number": 0,
+                            "personCount": 3,
+                            "creater": true,
+                            "type": "group"
+                        }
+                    ]
+                },
+                {
+                    "id": "25eb15aed288482daf012594bbadf5a5",
+                    "name": "分组1",
+                    "size": 0,
+                    "child": null
+                },
+                {
+                    "id": "6c4d792956864a938db2c39af2742b67",
+                    "name": "分组2",
+                    "size": 0,
+                    "child": null
+                },
+                {
+                    "id": "61a2218dde50457784ac2b28f8ed644e",
+                    "name": "分组3",
+                    "size": 0,
+                    "child": null
+                }
+            ],
+            "groups": null
+        },
+        {
+            "id": "d44dff3a51ef11e996400242ac110002",
+            "name": "监控",
+            "size": 4,
+            "child": null,
+            "groups": [
+                {
+                    "id": "0071e9ac6453455db65c35d2aecf1dd0",
+                    "name": "fixed群1",
+                    "number": 0,
+                    "personCount": 2,
+                    "type": "group"
+                },
+                {
+                    "id": "5f55da8c58374d70b7f4d289ac60efdd",
+                    "name": "临时群",
+                    "number": 0,
+                    "personCount": 2,
+                    "type": "group"
+                },
+                {
+                    "id": "4c5b57787b5741e1bec644639fbc02f6",
+                    "name": "全员群 ",
+                    "number": 0,
+                    "personCount": 10,
+                    "type": "group"
+                },
+                {
+                    "id": "78d985bba6654b13950b0f2b2b529d19",
+                    "name": "根节点群1",
+                    "number": 0,
+                    "personCount": 3,
+                    "type": "group"
+                }
+            ]
+        },
+        {
+            "id": "d76517f651ef11e996400242ac110002",
+            "name": "临时",
+            "size": 0,
+            "child": null,
+            "groups": []
+        }
+    ],
+    "uname": "用户",
+    "usize": 6,
+    "users": [
+        {
+            "id": "db05285a51ef11e996400242ac110002",
+            "name": "常用联系人",
+            "size": 0,
+            "child": []
+        },
+        {
+            "id": "e1c1bc1f51ef11e996400242ac110002",
+            "name": "组织机构",
+            "size": 6,
+            "child": [
+                {
+                    "organs": [
+                        {
+                            "id": "65fc27a25a7411e996400242ac110002",
+                            "name": "售检票科",
+                            "size": 5,
+                            "child": [
+                                {
+                                    "organs": [
+                                        {
+                                            "id": "944a96415a7411e996400242ac110002",
+                                            "name": "售票组",
+                                            "size": 3,
+                                            "child": [
+                                                {
+                                                    "organs": null,
+                                                    "personnel": [
+                                                        {
+                                                            "id": "2343f3f7d15f472fb5935e521b06d9b9",
+                                                            "username": "zs",
+                                                            "nickname": "张三",
+                                                            "avatar": "http://....",
+                                                            "type": "user"
+                                                        },
+                                                        {
+                                                            "id": "728f762e673e11e991200242ac110002",
+                                                            "username": "t1",
+                                                            "nickname": "t1",
+                                                            "avatar": "http://....",
+                                                            "type": "user"
+                                                        },
+                                                        {
+                                                            "id": "9759ed470fe644ff8d2bca75bd001612",
+                                                            "username": "20001",
+                                                            "nickname": "李四",
+                                                            "avatar": "http://....",
+                                                            "type": "user"
+                                                        },
+                                                        {
+                                                            "id": "bd46711afa7848309f44cf5c30533eac",
+                                                            "username": "20002",
+                                                            "nickname": "20002",
+                                                            "avatar": "http://....",
+                                                            "type": "user"
+                                                        }
+                                                    ],
+                                                    "gid": "cc076732880a434a99ad6a41e7fb5dba",
+                                                    "gname": "全员群 ",
+                                                    "gsize": 3,
+                                                    "gnumber": 0
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "945f0beb5a7411e996400242ac110002",
+                                            "name": "检票组",
+                                            "size": 0,
+                                            "child": null
+                                        }
+                                    ],
+                                    "personnel": [
+                                        {
+                                            "id": "426ffabe1ce44c44b3fa618c6a8275ec",
+                                            "username": "20004 ",
+                                            "nickname": "20004 ",
+                                            "avatar": "http://....",
+                                            "type": "user"
+                                        },
+                                        {
+                                            "id": "a1e7fa82bd6d4c29b9c025cf2b3d98b5",
+                                            "username": "20003 ",
+                                            "nickname": "20003 ",
+                                            "avatar": "http://....",
+                                            "type": "user"
+                                        }
+                                    ],
+                                    "gid": "c2b41b2f14834f9e926354af89ba5c9e",
+                                    "gname": "全员群 ",
+                                    "gsize": 5,
+                                    "gnumber": 0
+                                }
+                            ]
+                        },
+                        {
+                            "id": "6613ea3b5a7411e996400242ac110002",
+                            "name": "客运科",
+                            "size": 0,
+                            "child": null
+                        }
+                    ],
+                    "personnel": [
+                        {
+                            "id": "67baf30c28554fb990638257cb80ea65",
+                            "username": "20005 ",
+                            "nickname": "20005 ",
+                            "avatar": "http://....",
+                            "type": "user"
+                        }
+                    ],
+                    "gid": "4c5b57787b5741e1bec644639fbc02f6",
+                    "gname": "全员群 ",
+                    "gsize": 6,
+                    "gnumber": 0
+                }
+            ]
+        }
+    ]
+}
